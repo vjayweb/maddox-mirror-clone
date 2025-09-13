@@ -14,7 +14,7 @@ const Hero = () => {
               <span className="block text-accent">PARTNER</span>
             </h1>
             <p className="text-xl text-primary-foreground/90 mb-8 leading-relaxed max-w-2xl">
-              Maddox solutions offers a wide range of services tailored to suit your individual requirements. 
+              eQuire Technologies offers a wide range of services tailored to suit your individual requirements. 
               We are innovators in the fields of book production, data processing, E-learning, accessibility, 
               transcription and captioning, testing, virtual assistance and data labeling.
             </p>

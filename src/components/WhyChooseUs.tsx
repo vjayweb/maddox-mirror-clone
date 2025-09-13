@@ -29,7 +29,7 @@ const WhyChooseUs = () => {
           <div className="animate-fade-in">
             <h2 className="text-4xl font-bold text-foreground mb-6">Why Choose Us?</h2>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              Maddox invests a good amount of time to understand you and your business needs. 
+              eQuire Technologies invests a good amount of time to understand you and your business needs. 
               Upfront analysis enables us to create a seamless interface between your workflow 
               and our proven internal processes. We treat every project as a goal-sharing 
               experience with you and strive to produce high-quality products, on time and within budget.

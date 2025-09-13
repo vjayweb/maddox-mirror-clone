@@ -12,7 +12,7 @@ const testimonials = [
   },
   {
     name: "LUZETTE REYNEKE",
-    message: "Please let your team know they are awesome! We have actually spoke about it a few times and we are all very impressed with everyone at Maddox Solutions."
+    message: "Please let your team know they are awesome! We have actually spoke about it a few times and we are all very impressed with everyone at eQuire Technologies."
   }
 ];
 

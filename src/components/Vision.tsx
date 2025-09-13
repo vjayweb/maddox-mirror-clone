@@ -16,7 +16,7 @@ const Vision = () => {
     {
       icon: Heart,
       title: "OUR VALUES",
-      description: "Our values are fundamental to our success. They are the foundation of Maddox and define who we are. Our core values – empathy, integrity and innovation – are all at the heart of Maddox."
+      description: "Our values are fundamental to our success. They are the foundation of eQuire Technologies and define who we are. Our core values – empathy, integrity and innovation – are all at the heart of eQuire Technologies."
     }
   ];
 

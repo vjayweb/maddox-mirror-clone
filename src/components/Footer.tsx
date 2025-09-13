@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-8">
           <div className="col-span-2">
-            <h3 className="text-2xl font-bold mb-4">Maddox Solutions</h3>
+            <h3 className="text-2xl font-bold mb-4">eQuire Technologies</h3>
             <p className="text-primary-foreground/80 mb-6 leading-relaxed">
               Your preferred partner for innovative business solutions. 
               We deliver quality services tailored to your individual requirements 
@@ -37,7 +37,7 @@ const Footer = () => {
             <div className="space-y-3 text-primary-foreground/80">
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5" />
-                <span>info@maddoxsolutions.com</span>
+                <span>info@equiretechnologies.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5" />
@@ -53,7 +53,7 @@ const Footer = () => {
         
         <div className="border-t border-primary-foreground/20 mt-12 pt-8 text-center">
           <p className="text-primary-foreground/60">
-            © 2024 Maddox Solutions. All rights reserved.
+            © 2024 eQuire Technologies. All rights reserved.
           </p>
         </div>
       </div>
